@@ -830,6 +830,10 @@ font-size: 22px;
 
 
 @media (max-width: 768px) {
+
+ body {
+        overflow-x: hidden !important;
+    }
 .menu-toggle {
 display: block;
 }
